@@ -1,0 +1,103 @@
+#container{
+	border: 0px solid #000;
+	border-radius: 10px;
+	height: 565px;
+	margin: auto;
+	margin-top: 20px;
+	width: 700px;
+}
+
+header{
+	border-radius: 10px 10px 00 00;
+	border: 1px solid black;
+	height: 90px;
+
+}
+img{
+	display: block;
+	margin: 0;
+
+}
+nav{
+	border-radius: 00 00 10px 10px;
+	border: 1px solid black;
+	height: 60px;
+	margin-bottom: 10px;
+	background: #CBCBC7;
+}
+#menu{
+	padding: 0;
+}
+#menu li{
+	display: inline;
+}
+#menu li a{
+	font-family: arial;
+	font-size: 18px;
+	text-decoration: none;
+	float: left;
+	color: white;
+	padding: 0px 20px;
+}
+
+.articulo {
+	background: yellow;
+	padding: 5px;
+	border-radius: 10px 10px 0 0;
+	margin-bottom: 15px;
+}
+
+.articulo_2 {
+	border-radius: 0 0 10px 10px;
+}
+
+aside {
+	border-radius: 10px 10px 10px 10px;
+	background: gray;
+	margin-left: 10px;
+	padding-right: 60px;
+	height: 370px;
+
+}
+
+aside h2{
+	border-radius: 10px 10px 0 0;
+	background: #333;
+	color: white;
+	margin-top: -1px;
+	padding-left: 60px;
+	width: 100%;
+
+}
+
+main section {
+	width: 60%;
+	float: left;
+}
+
+
+main aside {
+	float: left;
+	width: 30%;
+}
+
+input {
+	width: 150px;
+}
+
+footer{
+	border-radius: 00 00 10px 10px;
+	border: 0px solid black;
+	clear: both;
+	height: 60px;
+	width: 700px;
+	margin-bottom: 25px;
+	background: #CBCBC7;
+}
+
+.boton{
+	float: right;
+}
+#down{
+	text-align: center;
+}
